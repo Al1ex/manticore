@@ -1,6 +1,8 @@
 import functools
 import collections
+import logging
 import re
+
 from ..core.smtlib import Expression, BitVecConstant
 
 
